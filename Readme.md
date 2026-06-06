@@ -83,11 +83,11 @@ Building an end-to-end project that takes a real application **from automated te
 ---
 
 ## ✍️ Projects & Writing
-
-- 📝 [Containerizing a web application with Docker Compose](https://dev.to/jankaritech/containerize-a-web-application-using-docker-compose-255a)
-- 🎓 [MSc Dissertation: Optimizing CI/CD build times in GitHub Actions](https://github.com/SagarGi/westlondon/blob/main/my_dissertation/Disseration-Sagar.pdf)
-- 📦 [**sagar-text-image**](https://www.npmjs.com/package/sagar-image-text) — an npm package for Vue
-- 📝 [Getting started with TestCafe](https://dev.to/jankaritech/e2e-testing-using-testcafe-17if)
+- [AWS + Ansible web app automated deployment](https://github.com/SagarGi/ansible-aws-webapp)
+- [Containerizing a web application with Docker Compose](https://dev.to/jankaritech/containerize-a-web-application-using-docker-compose-255a)
+- [MSc Dissertation: Optimizing CI/CD build times in GitHub Actions](https://github.com/SagarGi/westlondon/blob/main/my_dissertation/Disseration-Sagar.pdf)
+- **sagar-text-image**](https://www.npmjs.com/package/sagar-image-text) — an npm package for Vue
+- [Getting started with TestCafe](https://dev.to/jankaritech/e2e-testing-using-testcafe-17if)
 
 ---
 
